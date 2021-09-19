@@ -81,12 +81,10 @@ body::before {
 <a href="20210919_010.JPG" data-lightbox="abc"><img src="20210919_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210919_011.JPG" data-lightbox="abc"><img src="20210919_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210919_012.JPG" data-lightbox="abc"><img src="20210919_012.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">実は、コスモス祭りの会場が見つけられず、親切な農家のお兄さんに聞くと、「今年は中止ですよ」とのこと。</span></h3>	
+<h3><span class="white">実は、最初コスモス祭りの会場が見つけられず、親切な農家のお兄さんに聞くと、<br>「今年は中止ですよ」とのこと。</span></h3>	
 <a href="20210919_007.JPG" data-lightbox="abc"><img src="20210919_007.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">確かに予定の場所は、何かが刈り取られた後でした。</span></h3>
-<a href="20210919_014.JPG" data-lightbox="abc"><img src="20210919_014.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">全く〜早くアナウンスしてよ〜(>_<)。</span></h3>
+<h3><span class="white">確かに予定の場所では、すでに何かが刈り取られた後でした。<br>全く〜早くアナウンスしてよ〜(>_<)。<br>今回の写真は畦道にわずかに残ったお花たちです。</span></h3>
 <a href="20210919_014.JPG" data-lightbox="abc"><img src="20210919_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210919_015.JPG" data-lightbox="abc"><img src="20210919_015.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">農家のお兄さんは、その後もせっせとお仕事に精を出していました。</span></h3>
@@ -94,10 +92,11 @@ body::before {
 <a href="20210919_016.JPG" data-lightbox="abc"><img src="20210919_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210919_017.JPG" data-lightbox="abc"><img src="20210919_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210919_018.JPG" data-lightbox="abc"><img src="20210919_018.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">農家のお庭では、柿が色づいていました。</span></h3>
 <a href="20210919_019.JPG" data-lightbox="abc"><img src="20210919_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210919_020.JPG" data-lightbox="abc"><img src="20210919_020.JPG" alt="サンプル画像" width="900" /></a>
 
-<h4><span class="white">↓益子、ひまわり祭りHPへのリンク</span></h4>
+<h4><span class="white">↓益子、コスモス祭りHPへのリンク</span></h4>
 	<a href="http://www.town.mashiko.tochigi.jp/page/page003171.html" target="_blank"><h2>益子コスモス祭り</h2></a><br><br>
 <p>Map</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6072.805388613951!2d140.076715996864!3d36.44469947550417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1632043062763!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
