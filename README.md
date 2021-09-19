@@ -66,7 +66,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年9月19日(日)栃木県芳賀郡益子町上山、コスモス祭りにお邪魔しました !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
-<p align="left"> <img src="QR_mashiko.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_mashiko_.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 	<h3><span class="white">JR宇都宮駅から南東に位置する、益子コスモス祭りです。</span></h3>
 <a href="20210919_000.png" data-lightbox="abc"><img src="20210919_000.png" alt="サンプル画像" width="900" /></a>
 <a href="20210919_001.JPG" data-lightbox="abc"><img src="20210919_001.JPG" alt="サンプル画像" width="900" /></a>
